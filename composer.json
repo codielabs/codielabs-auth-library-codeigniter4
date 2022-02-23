@@ -1,0 +1,19 @@
+{
+    "name": "codielabs/codielabs-auth-library-codeigniter4",
+    "description": "Authentication & authorization for CodeIgniter 4.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codielabs\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Swan",
+            "email": "imenxboyssan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
