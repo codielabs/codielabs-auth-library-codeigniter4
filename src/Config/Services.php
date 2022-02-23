@@ -1,6 +1,6 @@
 <?php
 
-namespace Codielabs\CodieAuth\Config;
+namespace Codielabs\Auth\Config;
 
 use CodeIgniter\Model;
 use Codielabs\Auth\Config\Auth as AuthConfig;
